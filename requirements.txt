@@ -8,3 +8,4 @@ scikit_learn
 pydantic
 lightgbm
 pytest
+httpx
