@@ -8,6 +8,8 @@ Une société financière, nommée "Prêt à dépenser", qui propose des crédit
 * Mettre en production le modèle de scoring  (API et interface de test)​
 * Tracking des expérimentations et analyse du data drift​
 # Données Kaggle : [Home Credit Default](https://www.kaggle.com/c/home-credit-default-risk/data)
+# creation d'un depot pour api (avec fastapi)
+# creation d'un depot pour l'interface cree avec streamlit : [interface](https://github.com/bendoumahosni/strprojet7/tree/master)
 # bibliothèques python a ajouter au fichier: requirements.txt
 * fastapi == 0.109.0
 * gunicorn
