@@ -7,3 +7,4 @@ joblib
 scikit_learn
 pydantic
 lightgbm
+pytest
